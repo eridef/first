@@ -1,5 +1,8 @@
 body{
 	background-color:  #8428ec;
+	font-family: Verdana, serif; 
+	text-align: center;
+	word-spacing: 10px;
 }
 .preferencias{
 	background-color:  #5e011d;
