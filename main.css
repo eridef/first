@@ -1,0 +1,15 @@
+body{
+	background-color:  #8428ec;
+}
+.preferencias{
+	background-color:  #5e011d;
+}
+p.preferencias{	
+	font-size: 26px;
+	color:  #cfc5de;
+}
+#ahijados{
+	background-color:  #320975;
+	font-size: 30px;
+	color:  #cfc5de;
+}
