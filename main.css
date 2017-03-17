@@ -1,18 +1,45 @@
+
 body{
-	background-color:  #8428ec;
+	background-color: #5f117a;
 	font-family: Verdana, serif; 
-	text-align: center;
 	word-spacing: 10px;
+	font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
 }
 .preferencias{
-	background-color:  #5e011d;
+	background-color: #bd59df;
 }
 p.preferencias{	
-	font-size: 26px;
+	font-size: 16px;
 	color:  #cfc5de;
 }
-#ahijados{
-	background-color:  #320975;
-	font-size: 30px;
+.ahijados{
+	background-color: #7c1a9e;
+	font-size: 16px;
 	color:  #cfc5de;
+}
+.ahijaditos p{
+	display: inline-block;
+}
+#contenido{
+	display: inline-block;
+	margin-left: 80px;
+	line-height: 30px;
+}
+#contenido p{
+	display: inline-block;
+	word-spacing: 6px;
+}
+#contenido img{
+	display: inline-block;
+	margin-left: 20px;
+}
+#contenido h3{
+	margin-left: 20px;
+}
+#menu {
+	text-align: center;
+	font-size: 30px;
+}
+a{
+	color: grey;
 }
