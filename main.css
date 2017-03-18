@@ -6,24 +6,30 @@ body{
 	font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
 }
 .preferencias{
-	background-color: #bd59df;
+	width: 40%;
+	height: 60%;
+	display: inline-block;
+	margin-left: 80px; 
 }
-p.preferencias{	
+.preferencias p , h3{	
 	font-size: 16px;
-	color:  #cfc5de;
+	color:  #d6b1e3;
 }
 .ahijados{
-	background-color: #7c1a9e;
 	font-size: 16px;
-	color:  #cfc5de;
+	color:  #d6b1e3;
+	width: 100%;
+	margin-top: 30px;
+	margin-left: 65px;
 }
 .ahijaditos p{
 	display: inline-block;
 }
 #contenido{
 	display: inline-block;
-	margin-left: 80px;
 	line-height: 30px;
+	margin-top: 30px;
+	background-image: url("http://www.youthedesigner.com/wp-content/uploads/2010/04/17-grunge-dark-wallpaper.jpg");;
 }
 #contenido p{
 	display: inline-block;
@@ -38,8 +44,20 @@ p.preferencias{
 }
 #menu {
 	text-align: center;
+	text-shadow: 4px white;
 	font-size: 30px;
+	background-image: url("Img/deftones.jpg");
+	width: 80%;
+	margin-left: 120px;
+	
 }
 a{
 	color: grey;
+}
+#link{
+	float: right;
+	text-align: right;
+	background-color: black;
+	width: 100%;
+	margin-top: 20px;
 }

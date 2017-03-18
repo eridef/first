@@ -1,0 +1,15 @@
+.contenido img{
+	display: inline-block;
+}
+.contenido p{
+	display: inline-block;
+}
+body{
+	background-image: url("http://k14.kn3.net/taringa/1/5/3/6/8/9/92/naked_snakee_/ECB.jpg?289");
+}
+#title {
+	color:  #92ced5;
+}
+.temporada img , ul{
+	display: inline-block;
+}

@@ -1,0 +1,16 @@
+body{
+	background-color: black;
+	text-align: center;
+	color: white;
+}
+#vídeos{
+	background-color: grey;
+	width: 80%;
+	margin-left: 90pt;
+	line-height: 60pt;
+}
+h3 {
+	font-size: 35pt;
+	font-style: italic;
+	white-space: pre;
+}
