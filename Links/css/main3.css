@@ -13,3 +13,10 @@ body{
 .temporada img , ul{
 	display: inline-block;
 }
+h1 {
+	text-align: right;
+	font-size: 50pt;
+}
+h3 {
+	font-size: 20pt;
+}
