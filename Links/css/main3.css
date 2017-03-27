@@ -1,22 +1,101 @@
+body{
+	background-color: #08065B;
+}
+h1{
+	text-align: right;
+	font-size: 50pt;
+	color:  #92ced5;
+}
+header{
+	margin-right: 30px;
+}
+.robot{
+	background-image: url("file://C:/Users/Daia/Desktop/adaWork/Links/imgLinks/fondo.jpg");
+	width: 100%;
+}
+.sub{
+	background-color: #BCF4E6;
+	opacity: 0.3;
+}
+.sub h3{
+	opacity: 1.0;
+	font-size: 24pt;
+}
+.año{
+	background-color: black;
+	color: #BCF4E6;
+	font-size: 30px;
+	opacity: 0.4;
+}
+.contenido{
+	display: flex;
+	justify-content: space-around;
+}
 .contenido img{
 	display: inline-block;
+	margin-left: 60px;
 }
 .contenido p{
 	display: inline-block;
+	margin-left: 30px;
+	font-size:20px;
+	color: grey;
 }
-body{
-	background-image: url("http://k14.kn3.net/taringa/1/5/3/6/8/9/92/naked_snakee_/ECB.jpg?289");
+.contenido a{
+	margin-right: 20px;
+	clear: right;
 }
-#title {
-	color:  #92ced5;
-}
-.temporada img , ul{
+.temporada img{
 	display: inline-block;
+	clear: left;
+	margin-left: 60px;
 }
-h1 {
+.temporada h3 {
+	font-size: 25pt;
+	text-align: center;
+	text-decoration: underline;
+	margin-bottom: 40px;
+}
+.temporada ul {
+	display: inline-block;
+	clear: right;
+	margin-right: 200px;
+	margin-top: 40px;
+	float: right;
+	justify-content: space-around;
+	list-style: none;
+	font-size: 12pt;
+}
+a {
+	color: #92ced9;
+	text-decoration: none;
+}
+footer{
+	position: fixed;
+	z-index: 2;
+	bottom: 10px;
+	right: 1300px;
+	color: #92ced5;
+}
+footer img{
+	margin-top: 5px;
+}
+.thenightof{
+	background-image: url("C:/Users/Daia/Desktop/adaWork/Links/imgLinks/tno2.jpg");
+}
+.thenightof h3{
+	color: #F9C4DF;
+}
+.thenightof img{
+	margin-left: 60px;
+}
+#links{
+	position: fixed;
+	z-index: 2;
+	bottom: 10px;
+	right: 40px;
+	color: #92ced5;
+}
+#links p{
 	text-align: right;
-	font-size: 50pt;
-}
-h3 {
-	font-size: 20pt;
 }

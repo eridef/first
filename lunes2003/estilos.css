@@ -1,0 +1,89 @@
+body{
+	background: #fc93df;
+}
+h1{
+	font-size: 66px;
+	color: #ff03c5;
+	font-family: arial, verdana, sans-serif;
+	text-align: center;
+	font-weight: bold;
+	background-image: url("http://4.bp.blogspot.com/-GR8GiGxctOo/VNKy-iy18cI/AAAAAAAAFa4/TRxJ-AKYAxA/s1600/lunares.png");
+}
+.perro{
+	display: inline-block;
+	width: 240px;
+	height: 350px;
+	background: #b4ff69;
+	margin-right: 10px;
+	margin-top: 20px;
+	overflow: hidden;
+}
+.perro-par{
+	background: #84e522;
+}
+.perro h2{
+	font-family: arial, verdana, sans-serif; 
+	text-align: center;
+	color: #8f9779;
+}
+.perro img{
+	margin: 0 20px 0 20px;
+}
+.perro p{
+	margin: 10px 20px 0 20px;
+	width: 200px;
+	text-align: justify;
+}
+.modulo{
+	margin: 0 0 0 300px; 
+}
+.menu p , li{
+	background-color: #de1869;
+	width: 130px;
+	height: 25px;
+	font-size: 20px;
+	border: 5px solid black;
+	margin-left: 30px;
+}
+.menu{
+	float: left;
+	margin-top: 50px;
+	height: 800px;
+	}
+a{
+	color: #442834;
+}
+a:hover{
+	background: #fed4e8;
+}
+.menu p{
+	text-align: center;
+	margin-left: 70px;
+}
+.menu a{
+	text-decoration: none;
+}
+.menu ul{
+	list-style: none;
+}
+.derecha{
+	float: right;
+	margin-right: 65px;
+}
+.izquierda{
+	margin-right: 80px;
+}
+footer p{
+	text-align: right;
+	margin-right: 80px;
+	color: white;
+	font-weight: bolder;
+	font-family: "Gill Sans Extrabold", Helvetica, monospace;
+}
+footer{
+	background-color: #821647;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 100%;
+}
